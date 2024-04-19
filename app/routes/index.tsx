@@ -39,10 +39,10 @@ export const handler: Handlers = {
 }
 
 const props = {
-  description: 'What happened to Launch Week 9?!',
+  description: 'General Availability!!!',
   image:
-    'https://supabase.store/cdn/shop/files/swag-store-shirt_940x.jpg?v=1702015624',
-  title: 'LWX Dark Mode Tee',
+    'https://supabase.store/cdn/shop/files/GA-tshirt_940x.jpg?v=1713169790',
+  title: 'GA Week Dark Mode Tee',
 }
 
 export default function ProductPage(ctx: PageProps) {
